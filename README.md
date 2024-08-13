@@ -1,6 +1,6 @@
 # How to Verify SP1 Succinct
 
-<img src="https://gcdnb.pbrd.co/images/KIMJIIgEbNVi.png?o=1" width="2000"/>
+<img src="https://gcdnb.pbrd.co/images/KIMJIIgEbNVi.png?o=1" width="3500"/>
 
 
 To learn more about SP1, go here. [here](https://docs.succinct.xyz/introduction.html).
